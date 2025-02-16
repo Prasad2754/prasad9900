@@ -1,7 +1,0 @@
-version: 0.2
-
-phases:
-  build:
-    commands:
-      - echo "Starting build..."
-      - invalid_command_here  # This command does not exist and will fail
